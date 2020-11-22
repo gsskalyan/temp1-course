@@ -1,8 +1,8 @@
-title: temp1
-description: temp1
+title: Explainability-Team8
+description: Explainability-Team8
 template:
-  repo: temp1-template
-  name: temp1
+  repo: explainability8-template
+  name: explainability8
 before:
   - type: createIssue
     title: Welcome!

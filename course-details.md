@@ -1,9 +1,11 @@
-This is the description we show on the course page [here](https://lab.github.com/gsskalyan/temp1). This first paragraph will be featured at the top of the page so make it great.
-​
+Project - Explainability
+Group - 8
+Members
+	- Shivakalyan Soundarathiagarajan (UCID - ss4477)
+	-	Kowsick Venkatachalapathi (UCID - KV322)
+	-	Adish Vakharia (UCID - AAV57)
 
-​
-Be sure to tell the learner about the technology you are teaching, why they should learn it, how they can use it, and what you will teach them.
-​
-
-
-Include information on how they can reach you for questions about the content or course. 
+THRER PARTS
+   - Local Interpretable Model-Agnostic Explanations (i.e. LIME)
+   - SHAPLEY ADDITIVE Explanations DOCUMENTATION
+   - EXPLAIN PRETRAINED MODEL WITH SHAP
