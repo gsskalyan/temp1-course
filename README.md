@@ -6,7 +6,7 @@ Members
 	-	Kowsick Venkatachalapathi (UCID - KV322)
 	-	Adish Vakharia (UCID - AAV57)
 
-THRER PARTS
+THREE PARTS
    - Local Interpretable Model-Agnostic Explanations (i.e. LIME)
    - SHAPLEY ADDITIVE Explanations DOCUMENTATION
    - EXPLAIN PRETRAINED MODEL WITH SHAP
